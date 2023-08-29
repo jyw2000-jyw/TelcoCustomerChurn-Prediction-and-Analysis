@@ -4,7 +4,7 @@
 Introduction to Machine Learning and Data Science(2020.4-2022.6)
 
 ## 2. Project Supervisor
-**Mark Vogelsberger** (Associate Professor, MIT, https://physics.mit.edu/faculty/mark-vogelsberger/)
+[**Mark Vogelsberger**](https://physics.mit.edu/faculty/mark-vogelsberger/) (Associate Professor, MIT)
 
 ## 3. Project Details
 ### 3.1 Source of Data
